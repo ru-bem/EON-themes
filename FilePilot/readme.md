@@ -1,6 +1,6 @@
 # How to install
 ### Manually:
-1. Open Fpilot-Config.json, located at `%AppData%/Voidstar/FilePilot/`_.
+1. Open Fpilot-Config.json, located in `%AppData%/Voidstar/FilePilot/`
 2. Copy and paste the code below this line:
 ```
 },
