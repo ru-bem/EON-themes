@@ -1,0 +1,52 @@
+# Windows 11 inspired theme. Dark and light.
+# Made by ru-bem: github.com/ru-bem
+#
+# Download this file > Create the folder "Windows 11" inside %appdata%\rustyfiles\themes and place this file there.
+# Now open RustyFiles > Settings > Appearance > Theme folder > Windows 11
+
+
+[dark]
+window_bg        = "#191919"
+titlebar_bg      = "#262626"
+sidebar_bg       = "#262626"
+content_bg       = "#191919"
+card_bg          = "#262626"
+bar_bg           = "#262626"
+tile_bg          = "#262626"
+tile_hover       = "#FFFFFF18"
+border           = "#303030"
+divider          = "#191919"
+text             = "#FFFFFF"
+text_secondary   = "#909090"
+text_tertiary    = "#707070"
+accent           = "#177FE6"
+accent_text      = "#FFFFFF"
+hover            = "#FFFFFF18"
+pressed          = "#FFFFFF2A"
+selection        = "#177FE638"
+selection_border = "#177FE6"
+tab_active       = "#191919"
+danger           = "#BF3030"
+
+[light]
+window_bg        = "#E5E5E5"
+titlebar_bg      = "#E5E5E5"
+sidebar_bg       = "#E5E5E5"
+content_bg       = "#F3F3F3"
+card_bg          = "#F3F3F3"
+bar_bg           = "#E5E5E5"
+tile_bg          = "#F3F3F3"
+tile_hover       = "#00000010"
+border           = "#E5E5E5"
+divider          = "#EBEBEB"
+text             = "#1A1A1A"
+text_secondary   = "#6B6B6B"
+text_tertiary    = "#9E9E9E"
+accent           = "#005FB8"
+accent_text      = "#F3F3F3"
+hover            = "#0000000C"
+pressed          = "#00000018"
+selection        = "#005FB826"
+selection_border = "#005FB8"
+tab_active       = "#F3F3F3"
+danger           = "#C42B1C"
